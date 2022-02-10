@@ -1,3 +1,3 @@
 # repo-oper
 # elso commit
-#Hegyi kecske
+# Hegyi kecske

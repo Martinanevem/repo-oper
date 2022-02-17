@@ -3,5 +3,7 @@ body {
 }
 .sussy {
     text-align: center;
-    color: blueviolet;
+    color: yellow;
+    font-size: 50;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 }
